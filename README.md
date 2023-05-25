@@ -8,7 +8,7 @@ Developed with Unreal Engine 5 for mobile devices.
 
 
 
-Evo is a digital pet simulator. An Evo evolves depending on the food it eats, the biome he stays the most and how well kept he is in general. As for now the player is able to feed it different types of food but more interactive features are to be added in the future.
+Evo is a digital pet simulator. An Evo evolves depending on the food it eats, the biome he stays the most and how well kept he is in general. As for now the player is able to feed it different types of food, but more interactive features are to be added.
 
 
 
@@ -18,15 +18,15 @@ Evo is a digital pet simulator. An Evo evolves depending on the food it eats, th
 
 - Orbital camera with touch controls.
 
-- Interaction with feeders, pick, save to an inventory and throw.
+- Interaction with feeders: Pick, save to inventory, spawn 3D model out of inventory and throw item into the world.
 
 - #### Evo AI features:
 
-  - 3 different types of movement. Walking, swimming flying.
-  - Movement mode are locked to evolutions. (i.e. winged evolutions are able to fly).
+  - 3 different types of movement. Walking, swimming, flying.
+  - Movement modes are locked to evolutions. (i.e. winged evolutions are able to fly).
   - 2D and 3D navigation.
-  - Detect food near it, and hear food far from it.
-  - Pursue feeders after detected, **only food thrown by the player is detected**.
+  - Detects food near it, and hears food far from it.
+  - Pursues feeders after detected, **only food thrown by the player is detected**.
 
 - Basic AI movement for living feeders.
 
@@ -43,6 +43,8 @@ Evo is a digital pet simulator. An Evo evolves depending on the food it eats, th
 - Day and night cycle depending on current time.
 - Weather depending on current weather.
 - Tiredness, cleanliness, happiness, and health meters for Evo.
+- Cleaning.
+- Petting.
 
 
 
